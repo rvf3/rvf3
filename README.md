@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h1 align="center">Hi 👋, I'm rvf3</h1>
 <h3 align="center">A french computer science student specialized in development (object oriented programming and databases).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvf3&label=Profile%20views&color=0e75b6&style=flat" alt="rvf3" /> </p>
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-olivieri-93ab82318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-olivieri-93ab82318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-  <h3 align="left">username : Rafael Olivieri</h3>
+  <h3 align="left">username : rvf3 </h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
